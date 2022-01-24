@@ -3,8 +3,9 @@
     "vid": "0x0781",
     "pid": "0x5571",
     "sn": "17A0PDN123456",
-    "netif_num":"2",
+    "netif_num":"3",
     "mac1": "0011XXXX",
+    "mac2": "0011XXXX",
     "mac2": "0011XXXX"
   },
   "synoinfo": {
