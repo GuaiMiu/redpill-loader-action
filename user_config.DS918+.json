@@ -8,9 +8,6 @@
     "mac2": "0011XXXX",
     "mac2": "0011XXXX"
   },
-  "synoinfo": {
-    "supportsystemperature": "no",
-    "supportsystempwarning": "no"
-  },
+  "synoinfo": {},
   "ramdisk_copy": {}
 }
