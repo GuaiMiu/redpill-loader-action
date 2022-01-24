@@ -3,7 +3,9 @@
     "vid": "0x0781",
     "pid": "0x5571",
     "sn": "17A0PDN123456",
-    "mac1": "001132733003"
+    "netif_num":"2",
+    "mac1": "0011XXXX",
+    "mac2": "0011XXXX"
   },
   "synoinfo": {
     "supportsystemperature": "no",
