@@ -1,6 +1,6 @@
 [来自于Izumiko/redpill-loader-action](https://github.com/Izumiko/redpill-loader-action)
 
-
+# 本引导适用于华擎J3455 + 乐扩M2转Sata + 博通双网口
 # Building RedPill loader with Github action
 
 DS918+ & DS3615xs DSM 7.0.1 loader
