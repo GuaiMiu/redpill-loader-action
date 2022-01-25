@@ -6,7 +6,8 @@
     "netif_num":"3",
     "mac1": "0011XXXX",
     "mac2": "0011XXXX",
-    "mac2": "0011XXXX"
+    "mac3": "0011XXXX",
+    "maxlanport": "4"
   },
   "synoinfo": {},
   "ramdisk_copy": {}
